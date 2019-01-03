@@ -1,6 +1,6 @@
 Cubot Echo
 ===========
-Device Tree for LineageOS 13.0
+Device Tree for LineageOS 14.1
 ------------------
 
 | Device | Echo |
@@ -9,16 +9,27 @@ Device Tree for LineageOS 13.0
 | Kernel |  Marshmallow 6.0 (3.18.19) |
 | Display | 5,0" 1280x720 |
 | Battery | 3000MAh |
-| Storage |2GB RAM, 16GB storage |
+| Storage | 2GB RAM, 16GB storage |
 | Camera | 13MP rear / 5MP front |
 
 Bug	tracker
 ---------------
-- [x] 100% bugless
+- [x] battery drain on daily use (compared to earlier version)
+- [x] bluetooth (A2DP) sound on speakers
+- [x] Can not connect to hidden WIFI / WPS
+- [x] Import contacts from sim card
+- [x] Some apps fast crash
+- [x] Blackscreen after unlock
+- [x] GPS with device only
+- [x] FM Radio
+- [x] ril is not stable
+- [ ] Video recording inverted color (workarround: any third party camera)
+- [ ] some Media Codecs does not work on Nougat 
+- [ ] some app glitches are present (app crashes has been fixed, glitches are left)
 
 Result
 ---------------
-You can see the result on needrom: [LineageOS13.0 on needrom.com](https://www.needrom.com/download/mm-lineageos-13-2/)
+You can see the result on needrom: [LineageOS14.1 on needrom.com](https://www.needrom.com/download/n-lineageos-14-1)
 
 Credits
 ---------------

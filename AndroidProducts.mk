@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_Echo.mk
+    $(LOCAL_DIR)/lineage_Echo.mk
