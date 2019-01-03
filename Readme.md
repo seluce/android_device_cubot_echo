@@ -18,7 +18,7 @@ Bug	tracker
 
 Result
 ---------------
-You can see the result on needrom: [LineageOS13.0 on needrom.com](https://www.needrom.com/download/lineageos13)
+You can see the result on needrom: [LineageOS13.0 on needrom.com](https://www.needrom.com/download/mm-lineageos-13-2/)
 
 Credits
 ---------------
