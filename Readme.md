@@ -29,7 +29,7 @@ Bug	tracker
 
 Result
 ---------------
-You can see the result on needrom: [LineageOS14.1 on needrom.com](https://www.needrom.com/download/n-lineageos-14-1)
+You can see the result on needrom: [LineageOS14.1 on needrom.com](https://www.needrom.com/download/n-lineageos-14-1-3)
 
 Credits
 ---------------
