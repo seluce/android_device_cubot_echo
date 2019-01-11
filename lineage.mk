@@ -13,5 +13,5 @@ $(call inherit-product, device/CUBOT/Echo/device_Echo.mk)
 PRODUCT_DEVICE := Echo
 PRODUCT_NAME := lineage_Echo
 PRODUCT_BRAND := CUBOT
-PRODUCT_MODEL := Echo
+PRODUCT_MODEL := CUBOT Echo
 PRODUCT_MANUFACTURER := CUBOT
