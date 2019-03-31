@@ -15,8 +15,8 @@ PRODUCT_MODEL := CUBOT Echo
 PRODUCT_MANUFACTURER := CUBOT
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT=CUBOT/lineage_Echo/Echo:7.1.2/NJH47F/seluce_02051933:userdebug/release-keys \
-    PRIVATE_BUILD_DESC="lineage_Echo-userdebug 7.1.2 NJH47F dev.seluce_.20180205.193358 release-keys"
+    BUILD_FINGERPRINT=CUBOT/CUBOT_ECHO/CUBOT_ECHO:6.0/MRA58K/1498445391:user/release-keys \
+    PRIVATE_BUILD_DESC="full_rlk6580_we_c_m-user 6.0 MRA58K 1498445391 release-keys"
 
 # SuperUser
 WITH_SU := false
